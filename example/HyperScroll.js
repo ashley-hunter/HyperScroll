@@ -75,7 +75,7 @@
     }
 
     function loadItems() {
-        itemCount = 1000;
+        itemCount = 10000;
 
         for(var i = 0; i < itemCount; i++) {
             preparedItems.push({
